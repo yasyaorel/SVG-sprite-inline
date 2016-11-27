@@ -1,0 +1,1 @@
+Making SVG sprite inline
